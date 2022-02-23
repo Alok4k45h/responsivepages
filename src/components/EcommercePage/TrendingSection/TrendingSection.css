@@ -1,0 +1,29 @@
+.trending-blogs-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 700;
+}
+.trending-blogs-card-sub-title {
+  color: #959ead;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+.trending-blogs-card-title {
+  color: #183b56;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 24px;
+}
+.trending-blogs-card-description {
+  color: #959ead;
+  font-family: "Roboto";
+  font-size: 20px;
+}
+.trending-blogs-card-link {
+  color: #ff9f00;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 700;
+}

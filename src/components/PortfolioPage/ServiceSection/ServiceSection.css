@@ -1,0 +1,35 @@
+.services-section {
+  background-color: #52606d;
+}
+.services-section-sub-heading {
+  color: #cced00;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+}
+.services-section-heading {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: bold;
+}
+.services-card {
+  background-color: #323f4b;
+  border-radius: 8px;
+  padding: 20px;
+}
+.services-card-image {
+  height: 48px;
+  width: 48px;
+}
+.services-card-title {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: bold;
+}
+.services-card-description {
+  color: #9aa5b1;
+  font-family: "Roboto";
+  font-size: 20px;
+}

@@ -1,0 +1,26 @@
+.vr-features-section-heading {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 26px;
+  font-weight: bold;
+}
+.vr-features-card-image {
+  width: 64px;
+  height: 64px;
+}
+.vr-features-card-title {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+}
+.vr-features-card-description {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.interaction {
+  color: #1f2933;
+  font-style: italic;
+  font-weight: bold;
+}

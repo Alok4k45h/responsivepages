@@ -1,0 +1,26 @@
+.optics-and-controllers-section-image {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.optics-and-controllers-section-heading {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 700;
+}
+.optics-and-controllers-section-description {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 20px;
+}
+.custom-button {
+  color: white;
+  background-color: #1a2137;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 4px;
+}

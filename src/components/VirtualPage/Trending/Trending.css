@@ -1,0 +1,35 @@
+.trending-blogs-section-heading {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 700;
+}
+.trending-blogs-card-title {
+  color: #959ead;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 14px;
+}
+.trending-blogs-card-description {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+}
+.trending-blogs-card-link {
+  color: #1754a1;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 700;
+}
+.view-all-button {
+  color: #ffffff;
+  background-color: #1754a1;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  width: 173px;
+  height: 56px;
+  border-width: 0;
+  border-radius: 4px;
+}

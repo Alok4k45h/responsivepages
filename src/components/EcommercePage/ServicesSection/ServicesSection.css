@@ -1,0 +1,25 @@
+.services-ecom-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-weight: 700;
+}
+.services-ecom-section-description {
+  color: #616c7c;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+.services-ecom-card-image {
+  width: 80px;
+}
+.services-ecom-card-title {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 500;
+}
+.services-ecom-card-description {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 14px;
+}
